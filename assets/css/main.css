@@ -3921,7 +3921,7 @@ input, select, textarea {
 		}
 		
 		.fpbutton {
-			margin: 20px;
+			margin-top: 40px;
 		}
 
 		.main-logo{
@@ -3929,22 +3929,22 @@ input, select, textarea {
 		}
 
 
-
-		@media screen and (max-width: 980px) {
+		@media screen and (max-width: 1280px) {
 			.main-logo{
-				width:350px;
+				width: 80vw;
 			}
 		}
 
-	@media screen and (max-width: 1280px) {
-		.main-logo{
-			width:450px;
+		@media screen and (max-width: 980px) {
+			.main-logo{
+				width: 80vw;
+			}
 		}
-	}
+
 
 
 	@media screen and (max-width: 736px) {
 		.main-logo{
-			width: 250px;
+			width: 80vw;
 		}
 	}
