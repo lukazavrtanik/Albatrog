@@ -3907,3 +3907,19 @@ input, select, textarea {
 			}
 
 		}
+
+
+
+
+
+		/* My changes */
+
+		.center-logo {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+		
+		.fpbutton {
+			margin: 20px;
+		}
