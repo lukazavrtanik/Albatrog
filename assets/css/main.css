@@ -1875,6 +1875,7 @@ input, select, textarea {
 			position: absolute;
 			top: 0;
 			width: 100%;
+			
 		}
 
 		input[type="submit"].icon:before,
@@ -3945,4 +3946,12 @@ input, select, textarea {
 			.main-logo{
 				width: 80vw;
 			}
+		}
+
+		.inner{
+			text-align: center;
+		}
+
+		.round{
+			border-radius: 50%;
 		}
