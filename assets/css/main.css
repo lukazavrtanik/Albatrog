@@ -2507,6 +2507,10 @@ input, select, textarea {
 		align-items: center;
 	}
 
+	.contact-text{
+		padding-bottom: 50px;
+	}
+
 
 
 
