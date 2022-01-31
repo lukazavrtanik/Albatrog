@@ -2566,6 +2566,11 @@ input, select, textarea {
 		text-align: left;
 	}
 
+	.right-20nobot{
+		padding: 20px 20px 0px 20px;
+		text-align: right;
+	}
+
 
 
 
