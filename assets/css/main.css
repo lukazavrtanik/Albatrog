@@ -2516,21 +2516,6 @@ input, select, textarea {
 		padding: 0px 10px 10px 10px
 	}
 
-	.product1{
-		padding: 20px 20px 0px 20px;
-		text-align: left;
-	}
-
-	.product2{
-		padding: 20px 20px 20px 20px;
-		text-align: center;
-	}
-
-	.product3{
-		padding: 0px 20px 0px 20px;
-		text-align: left;
-	}
-
 	.product-img1{
 		display: block;
 		margin-left: auto;
@@ -2565,11 +2550,24 @@ input, select, textarea {
 		}
 	  }
 
+	  
+	.left-20nobot{
+		padding: 20px 20px 0px 20px;
+		text-align: left;
+	}
+
+	.center-20all{
+		padding: 20px 20px 20px 20px;
+		text-align: center;
+	}
+
+	.left-20topbot{
+		padding: 0px 20px 0px 20px;
+		text-align: left;
+	}
 
 
 
 
 
-	/*
-	Flexbox, 2 divs, vertically vs horizontally based on screen width, @media queries
-	*/
+
