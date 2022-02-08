@@ -2573,8 +2573,19 @@ input, select, textarea {
 		text-align: center;
 	}
 
+
+	.center-20notop{
+		padding: 0px 20px 20px 20px;
+		text-align: center;
+	}
+
+	.center-20topbot{
+		padding: 20px 0px 20px 0px;
+		text-align: center;
+	}
+
 	.left-20topbot{
-		padding: 0px 20px 0px 20px;
+		padding: 20px 0px 20px 0px;
 		text-align: left;
 	}
 
