@@ -2537,6 +2537,10 @@ input, select, textarea {
 		border-radius: 50%;
 	}
 
+	.diagram{
+		max-width: 80vw;
+	}
+
 	.rotate {
 		animation: rotation 12s infinite linear;
 	  }
