@@ -2009,7 +2009,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style4 {
-			background-color: #303030;
+			background-color: #161616;
 			color: #999;
 			text-shadow: -1px -1px 0px #181818;
 		}
@@ -2538,7 +2538,10 @@ input, select, textarea {
 	}
 
 	.diagram{
-		max-width: 80vw;
+		margin: auto;
+		max-width: 90vw;
+		width: 100%;
+		justify-content: center;
 	}
 
 	.rotate {
