@@ -2544,6 +2544,13 @@ input, select, textarea {
 		justify-content: center;
 	}
 
+	.diagram-egg{
+		margin: auto;
+		max-width: 500px;
+		width: 100%;
+		justify-content: center;
+	}
+
 	.rotate {
 		animation: rotation 12s infinite linear;
 	  }
