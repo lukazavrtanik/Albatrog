@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -75,14 +75,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:28.63026619px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.71575665"
-       x="17.474213"
+       x="16.71826"
        y="285.45587"
        id="text821"><tspan
          sodipodi:role="line"
          id="tspan819"
-         x="17.474213"
+         x="16.71826"
          y="285.45587"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.85855675px;font-family:Yellowtail;-inkscape-font-specification:'Yellowtail, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.71575665">Read about my story</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.85855675px;font-family:Yellowtail;-inkscape-font-specification:'Yellowtail, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.71575665">Learn about my story</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot1979"
@@ -94,5 +94,5 @@
            height="611.42859"
            x="-187.14285"
            y="-130.33748" /></flowRegion><flowPara
-         id="flowPara1985"></flowPara></flowRoot>  </g>
+         id="flowPara1985" /></flowRoot>  </g>
 </svg>
