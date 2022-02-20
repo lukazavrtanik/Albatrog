@@ -41,16 +41,16 @@
 				<h1 class="center-20all"><strong>About me</strong></h1>
 					<article id="" class=" style3">
 						<div class="container">
-							<!-- <div class="row"> -->
-								<!-- <div class="col-4 col-5-large col-12-medium">
+							<div class="row">
+								<div class="col-4 col-5-large col-12-medium">
 									<span class="image fit"><img class="rounded-img" src="images/about/Avatar.png" alt="" /></span>
-								</div> -->
+								</div>
 								<div class="col-8 col-7-large col-12-medium">
 									<header>
-										<p><strong>Hi there. Welcome to my website!</strong></p>
-										<p class="center-20topbot">Icome from Europe, and I spent most of my time here. Here's also where I 
-											went to College - I first did by Bachelor's in mechanical engineering, and then continued to study and got my Master's degree. 
-											Shortly after college I found a suitable job and started my career.</p>
+										<p><strong>Hi! I'm Luka, the guy behind all this.</strong></p>
+										<p class="center-20topbot">I'm from Slovenia, Europe, and I also spent most of my time here. Here's also where I 
+											went to College - I first did by Bachelor's in mechanical engineering, and then coneinued to finish 
+											my Master's in mechatronics. Shortly after college I found a suitable job and started my career.</p>
 											<p>So everythong was going according to plan, but something was still missing - <strong>a creative outlet.</strong>
 											So I went ahead and started making stuff. Not with the purpose of selling it, but purely out of joy.
 											With time, the things I made were gradually getting better, and at one point I thought that other people might 
@@ -58,7 +58,7 @@
 										</p>
 									</header>
 								</div>
-							<!-- </div> -->
+							</div>
 						</div>
 					</article>
 				</article>
