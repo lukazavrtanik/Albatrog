@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -64,14 +64,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.98069382px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47451735"
-       x="4.6200581"
-       y="268.50388"
+       x="11.034527"
+       y="269.84021"
        id="text817"><tspan
          sodipodi:role="line"
          id="tspan815"
-         x="4.6200581"
-         y="268.50388"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.63449097px;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.47451735">Groovy grinders</tspan></text>
+         x="11.034527"
+         y="269.84021"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.63449097px;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.47451735">Groovy grinder</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.98069382px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47451735"
@@ -93,5 +93,5 @@
            height="447.49759"
            x="-125.25892"
            y="-141.63878" /></flowRegion><flowPara
-         id="flowPara1410"></flowPara></flowRoot>  </g>
+         id="flowPara1410" /></flowRoot>  </g>
 </svg>
