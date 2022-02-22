@@ -32,7 +32,7 @@
      inkscape:cx="461.89749"
      inkscape:cy="224.45566"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -53,20 +53,6 @@
   </metadata>
   <g
      inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="bg">
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.12501645;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       id="rect846"
-       width="234.33943"
-       height="51.79435"
-       x="1.898856"
-       y="1.8413329"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 2"
      transform="translate(0,-242)" />
@@ -80,9 +66,7 @@
        style="font-style:normal;font-weight:normal;font-size:18.98069382px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47451735"
        x="11.034527"
        y="269.84021"
-       id="text817"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       id="text817"><tspan
          sodipodi:role="line"
          id="tspan815"
          x="11.034527"
@@ -93,9 +77,7 @@
        style="font-style:normal;font-weight:normal;font-size:18.98069382px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47451735"
        x="58.185608"
        y="289.38684"
-       id="text821"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       id="text821"><tspan
          sodipodi:role="line"
          id="tspan819"
          x="58.185608"
