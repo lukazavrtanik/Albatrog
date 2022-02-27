@@ -2591,6 +2591,11 @@ input, select, textarea {
 		text-align: center;
 	}
 
+	.center-20lr{
+		padding: 0px 20px 0px 20px;
+		text-align: center;
+	}
+
 	.left-20topbot{
 		padding: 20px 0px 20px 0px;
 		text-align: left;
@@ -2599,6 +2604,29 @@ input, select, textarea {
 	.right-20nobot{
 		padding: 20px 20px 0px 20px;
 		text-align: right;
+	}
+
+	.jus-20topbot{
+		padding: 20px 0px 20px 0px;
+		text-align: justify;
+	}
+
+	.jus-20top{
+		padding: 20px 0px 0px 0px;
+		text-align: justify;
+	}
+
+	.gallery-img{
+		max-width: 400px;
+		/*width: 30%;*/
+		margin: auto;
+		justify-content: center;
+	}
+
+	@media screen and (max-width: 980px) {
+		.gallery-img{
+			width: 50vw;
+		}
 	}
 
 

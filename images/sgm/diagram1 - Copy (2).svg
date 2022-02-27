@@ -245,9 +245,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.12374369"
-     inkscape:cx="1049.0812"
-     inkscape:cy="1265.9323"
+     inkscape:zoom="0.0875"
+     inkscape:cx="-755.21366"
+     inkscape:cy="1185.4951"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -278,8 +278,8 @@
        id="rect956"
        width="970.62457"
        height="1230.5764"
-       x="-1029.2916"
-       y="-203.18066" />
+       x="-998.82153"
+       y="-197.8038" />
     <text
        id="text949-5"
        y="185.41331"
@@ -522,15 +522,15 @@
          sodipodi:role="line">Holds the two pieces together</tspan></text>
     <text
        id="text949-5-0-8-4"
-       y="964.59918"
-       x="205.91168"
+       y="965.66827"
+       x="209.11891"
        style="font-style:normal;font-weight:normal;font-size:19.68028259px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.49200714"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.96032906px;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.49200714"
-         y="964.59918"
-         x="205.91168"
+         y="965.66827"
+         x="209.11891"
          id="tspan947-9-55-1-8"
-         sodipodi:role="line">Visit the Gallery to check out more photos</tspan></text>
+         sodipodi:role="line">Visit the Gallery to check out the photos</tspan></text>
     <text
        id="text949-5-1-7"
        y="28.559725"
@@ -652,6 +652,13 @@
          x="51.360695"
          y="-623.23535"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.96032906px;font-family:'Bree Serif';-inkscape-font-specification:'Bree Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.49200705">Knurled surface</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.77784729;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect5109"
+       width="772.24377"
+       height="654.09094"
+       x="18.73918"
+       y="-762.37323" />
     <path
        inkscape:connector-curvature="0"
        id="path911"
@@ -730,6 +737,13 @@
          x="51.360695"
          id="tspan947"
          sodipodi:role="line">Knurled surface</tspan></text>
+    <rect
+       y="-9.0015049"
+       x="21.754448"
+       height="230.23766"
+       width="767.07343"
+       id="rect953"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.15751767;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#DotM)"
        d="m 271.16516,-652.37367 -56.63906,37.35514 H 43.74621"
