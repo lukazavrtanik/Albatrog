@@ -102,7 +102,7 @@ input, select, textarea {
 		line-height: 1.85em;
 		color: #888;
 		font-weight: 300;
-		font-size: 13pt;
+		font-size: 14pt;
 	}
 
 	a {
@@ -2476,19 +2476,19 @@ input, select, textarea {
 
 	@media screen and (max-width: 1480px) {
 		.main-text{
-			width: 80vw;
+			width: 70vw;
 		}
 	}
 
 	@media screen and (max-width: 980px) {
 		.main-text{
-			width: 80vw;
+			width: 70vw;
 		}
 	}
 
 	@media screen and (max-width: 736px) {
 		.main-text{
-			width: 80vw;
+			width: 70vw;
 		}
 	}
 
@@ -2540,13 +2540,6 @@ input, select, textarea {
 	.diagram{
 		margin: auto;
 		max-width: 90vw;
-		width: 100%;
-		justify-content: center;
-	}
-
-	.diagram-egg{
-		margin: auto;
-		max-width: 500px;
 		width: 100%;
 		justify-content: center;
 	}
