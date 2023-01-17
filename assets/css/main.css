@@ -2633,6 +2633,19 @@ input, select, textarea {
 		background-image: url("images/Background1.PNG")
 	}
 
+	.featured{
+		background-image: url(images/ft1.JPG);
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-position: center;
+		background-size: cover;
+	}
+
+	.pad-logo{
+	padding: 80px 0px 80px 0px;
+	}
+
+
 
 
 
