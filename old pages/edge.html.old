@@ -1,0 +1,187 @@
+<!DOCTYPE HTML>
+<!--
+	Miniport by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Albatrog | Art & Engineering</title>
+		<link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Nav -->
+			<nav id="nav">
+				<ul class="container">
+					<li><a href="https://albatrog.com">Home</a></li>
+					<!-- <li><a href="#top">Top</a></li> -->
+					<li><a href="#top">Top</a></li>
+					<li><a href="#features">About</a></li>
+					<!-- <li><a href="#product">Product</a></li>
+					<li><a href="#design">Design</a></li> -->
+				</ul>
+			</nav>
+
+		<!-- Home -->
+		<article > <!-- class="bgimg1"-->
+			<div id="top" class="container logo-flex">
+				<img class="image fit logo main-logo" src="images/sg/edge_main.svg" alt="">				
+				<img class="logotext main-text" src="images/sg/edge_text.png" alt="">
+			</div>
+		</article>
+
+		<!-- About -->
+		<article id="features" class="wrapper style1">
+			<div class="container">
+				<h1 class="center-20all">Edge - stainless steel grinder</h1>
+				<h2>Page under construction</h2>				
+				<h3>If you're interested in more, you can contact us by clicking the button below</h3>
+			</div>
+			<div class="container">
+				<div class="row">
+					<img class="gallery-img" src="images/sg/e1.JPG"> 
+					<img class="gallery-img" src="images/sg/e2.JPG"> 
+					<img class="gallery-img" src="images/sg/e3.JPG"> 
+				</div>
+			</div>
+			<footer class="">
+				<a href="#contact" class="button large scrolly">Contact</a>					
+			</footer>
+		</article>
+
+
+	
+		<!-- Product -->
+		<!-- <article id="product" class="wrapper style4">
+			<div class="container">
+				<h1 class="center-20all">Product breakdown</h1>
+					<div class="diagram">
+						<img class="diagram" src="images/sgm/diagram1.svg" alt="" />
+					</div>
+			</div>
+			<div class="container">
+				<div class="row">
+					<img class="gallery-img" src="images/sgm/gal/Colors3.jpg"> 
+					<img class="gallery-img" src="images/sgm/gal/Contents.jpg"> 
+					<img class="gallery-img" src="images/sgm/gal/main.jpg"> 
+				</div>
+			</div>
+			<footer class="">
+				<a href="https://albatrog.com/gallery/groovy-grinder" class="button large scrolly">Gallery</a>					
+			</footer>
+		</article> -->
+
+				<!-- <article class="wrapper style1">
+					<div class="container">
+						<header>
+							<h2><strong>Gear is made of:</strong></h2>
+							<p><strong>Birch plywood | </strong>The grinder's main material</p>
+							<p><strong>Stainless steel | </strong>The grinder's mid section</p>
+							<p><strong>Neodynium magnet | </strong>Holds the two pieces together</p>
+						</header>
+					</div>
+				</article>
+ -->
+
+		<!-- Contact -->
+			<article id="contact" class="wrapper style4">
+				<div class="container medium">
+					<div class="col-8 col-7-large col-12-medium">
+						<h2>Contact</h2>
+						<header>
+						<p class="padding2">If you have any questions or suggestions about the product, feel free to contact us.</p>
+						<p>We are also looking to cooperate with various people to get our product into the world. Whether you're a store owner, an influencer, 
+							or just someone with a wish to collaborate, we'd live to hear from you!
+						</p>							
+					</header>
+					</div>
+					<div>
+						<header>
+						<p>Write us at</p>
+							<h3>hello@albatrog.com</h3>
+					</header>
+					</div>
+					<div>
+						<header>
+						<p>Follow us on social media, or check our store on Etsy.</p>
+						</header>
+					</div>
+					<div class="row">
+						
+								<!-- OLD - contact form -->
+
+						<!-- <div class="col-12">
+							<form method="post" action="#">
+								<div class="row">
+									<div class="col-6 col-12-small">
+										<input type="text" name="name" id="name" placeholder="Name" />
+									</div>
+									<div class="col-6 col-12-small">
+										<input type="text" name="email" id="email" placeholder="Email" />
+									</div>
+									<div class="col-12">
+										<input type="text" name="subject" id="subject" placeholder="Subject" />
+									</div>
+									<div class="col-12">
+										<textarea name="message" id="message" placeholder="Message"></textarea>
+									</div>
+									<div class="col-12">
+										<ul class="actions">
+											<li><input type="submit" value="Send Message" /></li>
+											<li><input type="reset" value="Clear Form" class="alt" /></li>
+										</ul>
+									</div>
+								</div>
+							</form>
+						</div> -->
+						<div class="col-12">
+							<hr />
+							<h3>Find us on ...</h3>
+							<ul class="social">
+								<li><a href="https://pinterest.com/albatrogAE/" class="icon brands fa-pinterest"><span class="label">Pinterest</span></a></li>
+								<li><a href="https://instagram.com/albatrog/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+								<li><a href="https://www.reddit.com/user/Albatroeg" class="icon brands fa-reddit"><span class="label">Reddit</span></a></li>
+								<li><a href="https://www.etsy.com/shop/Albatrog?ref=seller-platform-mcnav" class="icon brands fa-etsy"><span class="label">Etsy</span></a></li>
+								<!-- <li><a href="#" class="icon brands fa-tumblr"><span class="label">Tumblr</span></a></li>
+								<li><a href="#" class="icon brands fa-google-plus"><span class="label">Google+</span></a></li>
+								<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li> -->
+
+								<!--
+								<li><a href="#" class="icon solid fa-rss"><span>RSS</span></a></li>
+								<li><a href="#" class="icon brands fa-instagram"><span>Instagram</span></a></li>
+								<li><a href="#" class="icon brands fa-foursquare"><span>Foursquare</span></a></li>
+								<li><a href="#" class="icon brands fa-skype"><span>Skype</span></a></li>
+								<li><a href="#" class="icon brands fa-soundcloud"><span>Soundcloud</span></a></li>
+								<li><a href="#" class="icon brands fa-youtube"><span>YouTube</span></a></li>
+								<li><a href="#" class="icon brands fa-blogger"><span>Blogger</span></a></li>
+								<li><a href="#" class="icon brands fa-flickr"><span>Flickr</span></a></li>
+								<li><a href="#" class="icon brands fa-vimeo"><span>Vimeo</span></a></li>
+								-->
+							</ul>
+							<hr />
+						</div>
+					</div>
+					<footer>
+						<ul id="copyright">
+							<li>&copy; Albatrog. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+						</ul>
+					</footer>
+				</div>
+			</article>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
+
+
